@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+#JSON files (the tate library)
+*.json
+
 # C extensions
 *.so
 
